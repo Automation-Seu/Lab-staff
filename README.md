@@ -8,7 +8,7 @@ presentation目录存放组合报告
 
 文件名称格式：ppt题目_xxx(汇报人姓名)_xxx(日期)
 
-如：FCN_UNet阅读报告_李自强_2018-11-01
+如：FCN_UNet阅读报告_xxx_2018-11-01
 
 
 weekly report目录存放每周工作汇报
