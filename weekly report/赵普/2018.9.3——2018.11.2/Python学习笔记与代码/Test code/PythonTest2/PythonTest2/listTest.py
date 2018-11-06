@@ -1,0 +1,20 @@
+bicycles = ['trek','cabbibdale','redline','specialized']
+print(bicycles)
+print(bicycles[0])
+print(bicycles[-1],bicycles[3])
+message="My first bicycle was a "+bicycles[1].title()+"."
+print(message)
+bicycles.append("ducati")
+print(bicycles)
+bicycles.insert(0,"aaaa")
+print(bicycles)
+del bicycles[0]
+print(bicycles)
+theLast = bicycles.pop()
+print(bicycles)
+print(theLast)
+theLast = bicycles.pop(1)
+print(bicycles)
+print(theLast)
+bicycles.remove("trek")
+print(bicycles)
